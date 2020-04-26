@@ -1,2 +1,4 @@
 print('Hello World')
-print("Hello Switzerland")
+print('Hello Malaysia')
+print('Hi')
+print('Hello Switzerland')
